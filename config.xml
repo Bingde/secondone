@@ -5,16 +5,16 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android   = "http://schemas.android.com/apk/res/android"
         id        = "com.phonegap.reallyone"
-        version   = "1.0.0">
+        version   = "1.0.1">
 
-    <name>Hello World</name>
+    <name>bing</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        To test it is bing or not bingS.
     </description>
 
     <author href="http://libingweb.com" email="libingzhao500@gmail.com">
-        PhoneGap Team
+        BING Team
     </author>
 
     <!--
